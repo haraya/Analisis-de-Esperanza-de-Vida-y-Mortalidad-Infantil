@@ -9,6 +9,8 @@ Los archivos de Excel a utilizar son:
 - Countries.xlsx
 - Paises.xlsx
 - Population.xlsx
+- Infant+death+rate.xlsx
+- Life+expectancy.xlsx
 
 # Herramientas
 - Power BI

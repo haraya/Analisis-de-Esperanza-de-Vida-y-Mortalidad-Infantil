@@ -19,4 +19,3 @@ Los archivos de Excel a utilizar son:
 # Autor
 - Nombre: Hernán Araya
 - Email: hernan.araya96@outlook.com
-- Website: https://hdesarrollocr.com/
